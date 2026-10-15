@@ -1,0 +1,2 @@
+"Este es el contenido principal del primer archivo para la actividad 2." 
+"A¤adiendo una segunda linea de texto al archivo principal." 
